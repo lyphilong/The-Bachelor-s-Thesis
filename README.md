@@ -8,7 +8,7 @@ My Bachelor's Thesis based on:
 - ["Improved Techniques for Training Single-Image GANs" by Tobias Hinz, Matthew Fisher, Oliver Wang, and Stefan Wermter.](https://arxiv.org/abs/2003.11512)
 - ["Structural-analogy from a Single Image Pair" by Sagie Benaim, Ron Mokady, Amit Bermano, Daniel Cohen-Or, and Lior Wolf.](https://arxiv.org/abs/2004.02222)
 
-Abstract: The task of unsupervised image-to-image translation has seen substantial advancements in recent years through the use of deep neural networks. My thesis is based on [ConSinGAN model](https://arxiv.org/abs/2004.02222) and [model's Benaim et al](https://arxiv.org/abs/2004.02222). In this thesis, we explore the capabilities of neural networks to understand image structure by given a single video A and a single image B. The model will learn the mapping  crose to fine with different resolution of the image for each scale. As a result, the image will be transformed from the most general structure to the smallest details in the image. However, the combination of [ConSinGAN model](https://arxiv.org/abs/2004.02222) and [model's Benaim et al](https://arxiv.org/abs/2004.02222) has produced negative results and that becomes the premise that should be avoided for these stellar studies.
+Abstract: The task of unsupervised image-to-image translation has seen substantial advancements in recent years through the use of deep neural networks. My thesis is based on [ConSinGAN model](https://arxiv.org/abs/2004.02222) and [model's Benaim et al](https://arxiv.org/abs/2004.02222). In this thesis, we explore the capabilities of neural networks to understand image structure by given a single video A and a single image B. The model will learn the mapping  crose to fine with different resolution of the image for each scale. The model will create the video which captures the feature of single image B and have an animation of video A by a combination of the [ConSinGAN model](https://arxiv.org/abs/2004.02222) and [model's Benaim et al](https://arxiv.org/abs/2004.02222). As a result, the image will be transformed from the most general structure to the smallest details in the image. However, the combination of [ConSinGAN model](https://arxiv.org/abs/2004.02222) and [model's Benaim et al](https://arxiv.org/abs/2004.02222) has produced negative results and that becomes the premise that should be avoided for these stellar studies.
 
 # Installation
 - python 3.5
@@ -19,6 +19,8 @@ pip install -r requirements.txt --quiet
 ```
 
 # Result
+
+However, the outcome was not good but this is the premise for future advances in the model.
 
 # Video Translation
 ```
