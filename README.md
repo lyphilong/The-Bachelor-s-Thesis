@@ -20,6 +20,7 @@ pip install -r requirements.txt --quiet
 ```
 
 # Result
+<img src="Report/Result/Result.gif" width="400px">
 
 However, the outcome was not good but this is the premise for future advances in the model.
 
