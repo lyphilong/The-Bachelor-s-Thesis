@@ -1,5 +1,6 @@
 # The-Bachelor-s-Thesis
-
+- Folder `Source`: contain code for this project
+- Folder `Report`: contain file present(pdf), file report(latex,pdf)
 ---
 Official implementation of my Bachelor's Thesis **"Multi-scale Learning a GAN from a Single representative"**.
 
@@ -46,4 +47,3 @@ Evaluation:
 ```
 # Acknowledgements
 Our implementation is based on this implementation of the [ConSinGAN](https://github.com/tohinz/ConSinGAN/blob/master/README.md) paper and [Structural-analogy](https://github.com/rmokady/structural-analogy).
-
